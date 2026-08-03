@@ -38,3 +38,4 @@ These results come from product and consulting work; the public repositories bel
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/skoskov/)
+- [Telegram](https://t.me/skoskov)
